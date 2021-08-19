@@ -326,8 +326,8 @@ public class Concept1
            | |  | '_ \ / _ \  / _` |/ _` | '_ \ / _` | | | '_ \ / _` |  / _ \ / __|/ _ \
            | |  | | | |  __/ | (_| | (_| | | | | (_| | | | | | | (_| | |  __/ \__ \  __/
            |_|  |_| |_|\___|  \__,_|\__,_|_| |_|\__, |_|_|_| |_|\__, |  \___|_|___/\___|
-                                         __/ |           __/ |
-                                        |___/           |___/
+                                                 __/ |           __/ |
+                                                |___/           |___/
          */
 
         //happens when curly brackets are not use correctly, else statements connect to the closet if, not correct one
